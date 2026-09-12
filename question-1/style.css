@@ -1,0 +1,14 @@
+.container{
+    display:flex;
+    background-color:purple;
+    width:900px;
+    height:400px;
+    flex-direction:row;
+ 
+}
+.box{
+width: 150px;
+height: 180px;
+background-color: white;
+margin:5px;
+}
