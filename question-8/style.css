@@ -1,0 +1,18 @@
+ .container{
+        display:flex;
+        flex-direction: row;
+        width:200px;
+        height:30px;
+        justify-content: center;
+        text-align: center;
+
+    }
+    .item1{
+        background-color: #1abc9c;
+         flex-grow:2;
+
+    }
+    .item2{
+        background-color: #2f9fdb;
+        flex-grow:1;
+    }
